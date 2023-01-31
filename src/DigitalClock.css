@@ -1,0 +1,13 @@
+.digital-clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+  }
+  
+  .digital-clock-time {
+    font-size: 50px;
+    color: white;
+  }
+  
